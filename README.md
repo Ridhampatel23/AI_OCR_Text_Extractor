@@ -1,4 +1,4 @@
-# 📸 AI Image Reader
+# 📝 AI OCR Text Extractor
 
 An AI-powered text recognition app built with **Flutter** and **Google ML Kit** to extract text from images. Users can capture an image or pick one from the gallery, and the app will recognize and display the text using **Google ML Kit's Text Recognition API**.
 
