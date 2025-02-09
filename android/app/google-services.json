@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963032442559",
+    "project_id": "imagescanner-6440d",
+    "storage_bucket": "imagescanner-6440d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963032442559:android:1d397a6e135ec8bc62480a",
+        "android_client_info": {
+          "package_name": "com.example.ai_image_reader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYq3H0KLGYqdMDf4hX95Seh3Gll9ro2JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
